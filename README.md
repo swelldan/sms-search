@@ -1,1 +1,1 @@
-# sms-search
+Simple SMS database search coded in Python
