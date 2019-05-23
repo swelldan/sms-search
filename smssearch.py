@@ -1,5 +1,4 @@
 import sqlite3
-from operator import itemgetter
 
 searchInput = input("What would you like to search? \n")
 
